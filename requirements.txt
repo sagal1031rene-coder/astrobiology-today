@@ -1,0 +1,25 @@
+# ================================================================================
+# Astrobiology-Today & Celestial Mechanics Simulation Engine Requirements
+# Author: Rene Sagal Andrade | ORCID: 0009-0003-5574-5384
+# Repository: sagal1031-coder/astrobiology-today
+# ================================================================================
+
+# Core Numerical Computing & Vector Mathematics
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# N-Body Orbital Integration Engine
+rebound>=3.24.0
+
+# Astronomy Data, Ephemerides & JPL Horizons Query API
+astropy>=5.2.0
+astroquery>=0.4.6
+
+# Trajectory Visualization & Publication-Quality Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Document Processing & PDF Export Dependencies
+reportlab>=3.6.12
+pypdf>=3.9.0
