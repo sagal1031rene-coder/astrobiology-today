@@ -1,0 +1,18 @@
+cff-version: 1.2.0 
+  message: "If you use this software or computational framework in your research, please cite it as below."
+  type: software authors: - family-names: "Sagal Andrade"
+  given-names: "Rene" 
+  affiliation: "Independent Researcher &amp; Astro-aerospace Analyst, University College London (UCL) Alumnus" 
+  title: "Astrobiology-Today: High-Precision Orbital Dynamics &amp; Planetary Defense Framework" 
+  version: "1.0.1" 
+  date-released: "2026-11-10" 
+  repository-code: "https://github.com/sagal1031rene-coder/astrobiology-today"
+  url: "https://github.com/sagal1031rene-coder/astrobiology-today"
+  license: "MIT"
+  keywords: - "Apophis 2029" - "3I/ATLAS" - "Orbital Dynamics" - "Yarkovsky Perturbations" - "Celestial Mechanics" - "Planetary Defense" - "N-body Simulations" - "REBOUND" - "IAS15 Engine" - "Open Science"
+  preferred-citation: type: article authors: - family-names: "Sagal Andrade"
+  given-names: "Rene"
+  title: "High-Precision Numerical Mapping of Yarkovsky Perturbations and Non-Linear Flyby Dynamics of Asteroid (99942) Apophis in 2029" 
+  journal: "Astronomy and Computing"
+  year: 2026 
+status: "submitted"
